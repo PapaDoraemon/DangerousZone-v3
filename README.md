@@ -1,2 +1,2 @@
-# DangerousZone-v3
-87 sempel malware yang tinggal di eksekusi aja bacootttt
+#### All responsibilities are at your own risk.
+#### Please use it only for research purposes.
